@@ -8,7 +8,6 @@
 
 namespace SteffenKong\Tools;
 
-use SteffenKong\StringUtils\StringUtils;
 use SteffenKong\Tools\ResultCode;
 
 /**

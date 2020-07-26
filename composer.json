@@ -8,5 +8,10 @@
             "email": "3266023724@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SteffenKong\\": "src"
+        }
+    }
 }
