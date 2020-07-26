@@ -36,7 +36,7 @@ class JsonResponse {
     }
 
 
-    public static function paginate($data,$count,$page,$pageSize,$extra) {
+    public static function paginate($data,$count,$page,$pageSize,$extra = []) {
         $result = new JsonResult(ResultCode::SUCCESS,"获取成功");
         $result->setData($data);
         $result->setCount($count);
