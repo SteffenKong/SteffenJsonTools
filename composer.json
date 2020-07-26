@@ -1,0 +1,12 @@
+{
+    "name": "steffenkong/steffen-json-tools",
+    "description": "SteffenKong\u0000\u0000\u0000\u0000json",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kong",
+            "email": "3266023724@qq.com"
+        }
+    ],
+    "require": {}
+}
